@@ -4,7 +4,6 @@ This repository contains Python programs developed as part of Module 7 Lab Activ
 
 ---
 
-```markdown
 # Python Problems
 
 ## Description
